@@ -41,6 +41,12 @@ Here's a list with the overall progress of the emulator, broken down in distinct
 
 **PSeudo JS** makes usage of `Clang` compiler to build. In order to build **PSeudo JS**, just run the `build` command on the terminal. You need to run this project from a localhost server like **Apache**. You must also include a valid **BIOS** file like `scph1001.bin` in the `bios` folder in order to test it. I will not provide information on how and where to find this.
 
+<h2>Learning / How It Works</h2>
+
+If you’re a web developer and want to learn how emulation works (and how it’s implemented in this repo), start here:
+
+- [docs/EMULATION_GUIDE.md](docs/EMULATION_GUIDE.md)
+
 <h2>License</h2>
 
 Open-source under [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0).
